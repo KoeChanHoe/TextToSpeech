@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity implements
         }else{
             Log.e("TTS", "Initialization Failed!");
         }
-
+//
     }
 
 }
